@@ -29,7 +29,6 @@ app.debug = True
 class World:
     def __init__(self):
         self.clear()
-        self.clear()
         # we've got listeners now!
         self.listeners = list()
         
